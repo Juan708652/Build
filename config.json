@@ -1,1 +1,8 @@
-ya
+{
+  "serverUrl": "http://IP_SERVER:2000",
+  "appVersion": "1.0.0",
+  "forceUpdate": false,
+  "updateMessage": "Ada versi baru!",
+  "downloadUrl": "https://link-download-apk-lu.com/okdj.apk",
+  "announcement": ""
+}
