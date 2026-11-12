@@ -1,5 +1,5 @@
 {
-  "serverUrl": "http://IP_SERVER:2000",
+  "serverUrl": "http://mydenisbaik.panelantirusuh.biz.id:2000",
   "appVersion": "1.0.0",
   "forceUpdate": false,
   "updateMessage": "Ada versi baru!",
